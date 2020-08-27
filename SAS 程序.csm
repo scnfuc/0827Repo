@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-16"?><Snippet schemaVersion="1.0">
+
+	<Registration>
+		<Abbreviation/>
+		<Description>中文测试</Description>
+		<Procedures/>
+		<Language>SAS</Language>
+		<Version/>
+	</Registration>
+
+	<CodeTemplate><![CDATA[proc print data=sashelp.class;
+run;]]></CodeTemplate>
+
+</Snippet>
